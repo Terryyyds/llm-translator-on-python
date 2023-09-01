@@ -1,5 +1,5 @@
 """
-    An handy AI Translator Tool powered by AI.
+    A handy text translator tool powered by AI LLM. Simple, Fast, handy, Cross-Platform.
     Author: Yu Deng
     Date: 1 September 2023
 
