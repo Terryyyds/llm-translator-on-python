@@ -10,9 +10,7 @@ A pioneering AI-powered text translation tool. Simple, fast, handy, cross-Platfo
 
 ## 🎓 Project Background
 
-This project emerged from the personal needs of an international student pursuing a Master of Business Information Systems degree. As English was a second language, frequent translation requirements during studies and programming hobbies motivated the creation of this tool. 
-
-Built in 2023 when GPT-3.5 represented the pinnacle of AI technology, this project demonstrates early practical application of large language models in desktop applications.
+This project emerged from the personal needs of an international student pursuing a MBIS degree. As English was a second language, frequent translation requirements during studies and programming hobbies motivated the creation of this tool. Built in 2023 when GPT-3.5 represented the pinnacle of AI technology, this project demonstrates early practical application of large language models in desktop applications.
 
 ## ✨ Project Highlights
 
