@@ -32,6 +32,11 @@ This project emerged from the personal needs of an international student pursuin
 - **Character Statistics**: Real-time non-whitespace character counting
 - **Cross-platform Compatibility**: Supports Windows, macOS, and Linux operating systems
 
+
+## 👀 Interface Preview
+
+<img width="762" height="590" alt="image" src="https://github.com/user-attachments/assets/38c22f89-3205-4055-bbf9-cac27aa735b4" />
+
 ## 📖 Usage Guide
 
 ### Basic Translation
