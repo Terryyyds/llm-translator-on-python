@@ -1,4 +1,4 @@
-# AI LLM Translation Tool 🚀
+# AI LLM Translation Tool
 
 A pioneering AI-powered text translation tool. Simple, fast, handy, cross-Platform LLM Text Translator Interface for everyday use, demonstrating early exploration of LLM for practical translation applications.
 
